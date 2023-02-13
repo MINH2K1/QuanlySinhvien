@@ -1,0 +1,19 @@
+.status{
+    border-radius:2px ;
+    padding: 0px;
+}
+.btn{
+    display: flex;
+    justify-content: space-between;
+    width: 240px;
+    
+}
+.text{
+text-align: center;
+}
+.text:hover{
+    text-align: center;
+    background-color: rgba(red,0,0,0.1) !important;
+    cursor: pointer;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3) ;
+    }

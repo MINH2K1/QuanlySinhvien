@@ -1,0 +1,7 @@
+.boxmin{
+    height: 200px;
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 0 0 4px rgba(0,0,0,0.4);
+}
